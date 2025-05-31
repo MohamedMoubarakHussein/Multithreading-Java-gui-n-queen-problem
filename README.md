@@ -1,4 +1,4 @@
-#intro 
+# intro 
 A Java application that solves the classic N-Queens problem with an interactive graphical user interface.
 This project demonstrates algorithmic problem-solving techniques combined with modern GUI design using Java Swing.
 
